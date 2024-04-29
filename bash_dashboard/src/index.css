@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+  font-family: 'Poppins';
+  overflow-x: hidden;
+}
+div {
+  box-sizing: border-box;
+}
